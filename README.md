@@ -12,7 +12,7 @@
 ## Documentação
 
 - Essa é a documentação do projeto: [DOCUMENTAÇÃO](https://prog-lucasalves.github.io/PUB_Estrutura_Projeto_ETL/)
-  
+
 ## *Para realizar esse projeto vou(vamos) utilizar o VSCode e o terminal(PowerShell)*
 
 > [!NOTE]
@@ -36,7 +36,7 @@
 - Versão do python utilizada: **3.11.3** | atraves do *pyenv*
 - Arguivo .python-version
 Ref.: [pyenv](https://github.com/pyenv/pyenv)
-  
+
 ## Criando diretório para o projeto
 
 ```bash
